@@ -1,10 +1,21 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: 우아한테크코스
+  dates: 2019.05.07 ~ 현재
+  link: https://github.com/Conatuseus/woowacourse-projects
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    실제 현업을 위한 웹 백엔드 교육(자바지기 박재성님)
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    * OOP, TDD, 클린코드를 기반한 JAVA 프로그래밍
+    * Spring Boot, JPA를 활용한 웹 백엔드 구현
+    * 페어 프로그래밍, 프로젝트를 통한 협업 경험
+    * 현업에 필요한 말하기, 글쓰기 능력 향상을 위한 테코톡/글쓰기 미션
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Chungnam National University
+  dates: 2011.03 - 2019.8
+  qualification: Computer Science Engineering
+  quote: >
+    기본적인 컴퓨터 사이언스 지식 습득
+  description: | # this will include new lines to allow paragraphs
+    * 컴퓨터 프로그래밍, 자료구조, 알고리즘
+    * 운영체제, 데이터베이스, 시스템 프로그래밍
