@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: Conatuseus/Conatuseus.github.io
+# favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 사명기
+title: 백엔드 개발자 지망생
+email: conatuseus@gmail.com
+website: https://velog.io/@conatuseus
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  Conatuseus
 # dribbble_username: jekyll
-# facebook_username: jekyll
+ facebook_username: MyungkiSa
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -28,23 +28,26 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+# Skills Section
+# project_title: Skills
+
+# Opensource Section
+# project_title: Opensource
+
 # Projects Section
 # projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
 
 # Education Section
 # educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
