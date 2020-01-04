@@ -1,4 +1,12 @@
 - layout: top-middle
+  name: Caffeine
+  link: https://github.com/EDD-season2
+  quote: >
+    2019.11 ~ 2019.12 (4주)
+  description: | # this will include new lines to allow paragraphs
+    * 우아한테크코스 팀 프로젝트
+    * Web으로 카페의 상품을 주문할 수 있는 O2O 서비스
+- layout: top-middle
   name: 유튜브 Clone 프로젝트
   link: https://github.com/everyone-driven-development/miniprojects-2019/tree/develop
   quote: >
