@@ -24,9 +24,17 @@ github_username:  Conatuseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  백엔드 개발자를 지망하며, 우아한테크코스의 백엔드 과정을 수료했습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  우아한테크코스에서 페어 프로그래밍, 팀 프로젝트를 경험했습니다.
+
+  OOP, TDD, 읽기 좋은 코드를 지향합니다. 
+
+  공유 문화와 꾸준한 학습이 성장을 이끈다고 생각하여, [TIL](https://github.com/Conatuseus/TIL)과 [블로그](https://velog.io/@conatuseus)를 통해 정리하고 학습합니다.
+
+  기술뿐 아니라 협업에 있어서도 함께하고 싶은 사람이 되기위하여 노력합니다.
+  
+  지속적인 회고를 통해, **어제보다 오늘 더 성장한 개발자를 지향**합니다.
 
 # Skills Section
 # project_title: Skills
