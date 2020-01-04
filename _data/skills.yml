@@ -15,5 +15,6 @@
   name: 간단히 사용해본 기술
   description: | # this will include new lines to allow paragraphs
     * AWS, Docker
+    * Travis CI, AWS Codedeploy
     * Redis
     * Cron
