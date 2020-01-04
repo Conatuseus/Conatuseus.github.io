@@ -5,7 +5,10 @@
     2019.11 ~ 2019.12 (4주)
   description: | # this will include new lines to allow paragraphs
     * 우아한테크코스 팀 프로젝트
-    * Web으로 카페의 상품을 주문할 수 있는 O2O 서비스
+    * Web으로 카페의 상품을 주문할 수 있는 O2O 서비스(like 스타벅스 사이렌오더)
+    * 매장, 메뉴 CRUD, 결제 기능 등 구현
+    * Spring Rest Docs를 적용해 API 문서 자동화
+    * Java, Springboot, MySQL, JPA, AWS EC2, Nginx, Docker
 - layout: top-middle
   name: 유튜브 Clone 프로젝트
   link: https://github.com/everyone-driven-development/miniprojects-2019/tree/develop
