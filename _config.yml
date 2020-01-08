@@ -22,7 +22,7 @@ github_username:  Conatuseus
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/conas.png
 about_content: | # this will include new lines to allow paragraphs
   백엔드 개발자를 지망하며, 우아한테크코스의 백엔드 과정을 수료했습니다.
 
