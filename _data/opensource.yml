@@ -4,10 +4,10 @@
   quote: >
     개인 기술 블로그
   description: | # this will include new lines to allow paragraphs
-    * 배운 내용과 개발 중 어려웠던 내용을 정리하여 공유하기 위한 블로그
+    * 학습한 내용 정리
     * 강의 들은 내용을 정리
-    * 개발 중 만난 어려움을 해결하는 과정 정리
-    * 지속적인 회고를 통해 반성과 성장 자극
+    * 개발 중 어려웠던 내용 및 해결과정 공유
+    * 지속적인 회고를 통해 반성과 성장
     
 - layout: left
   name: TIL(Today I Learned)
@@ -15,8 +15,6 @@
   quote: >
     하루동안 개발 관련하여 학습하거나 경험한 내용을 기록
   description: | # this will include new lines to allow paragraphs
-    * 개발 관련하여 학습하거나 경험한 내용 정리
-    * 읽는 뉴스 기사를 기록
-    * 읽은 책, 참가한 세미나에 대한 내용 정리
-    * 블로그와 더불어, 지속적으로 읽어보기 위하여 기록
-
+    * 학습한 내용 가볍게 정리
+    * IT 뉴스 요약 기록
+    * 책, 세미나에 대한 내용 정리
