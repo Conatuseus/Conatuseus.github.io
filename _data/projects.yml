@@ -8,7 +8,7 @@
     * Web으로 카페의 상품을 주문할 수 있는 O2O 서비스(like 스타벅스 사이렌오더)
     * 매장, 메뉴 CRUD, 결제 기능 등 구현
     * Spring Rest Docs를 적용해 API 문서 자동화
-    * Java, Springboot, MySQL, JPA, AWS EC2, Nginx, Docker
+    * Java, Springboot, MySQL, JPA, AWS EC2, Nginx
 - layout: top-middle
   name: 유튜브 Clone 프로젝트
   link: https://github.com/everyone-driven-development/miniprojects-2019/tree/develop
@@ -20,7 +20,7 @@
     * 5인 <mark>떼코딩</mark>, 코드 리뷰 수행
     * 일정 규모 이상의 라인과 기능을 갖춘 웹 애플리케이션 개발 경험 + 첫 그룹 프로젝트 경험
     * TDD (TestCase: 113개, TestCoverage: class(100%), method(97%), line(97%))
-    * Java, Springboot, MySQL, JPA, Vanilla JS, Nginx, Docker, Junit5+Mock 
+    * Java, Springboot, MySQL, JPA, Vanilla JS, Nginx, Junit5+Mock 
 - layout: top-middle
   name: Backjoon Online Judge의 친구 기능, 랭킹 비교 API 구현
   link: https://github.com/Conatuseus/Outstagram
