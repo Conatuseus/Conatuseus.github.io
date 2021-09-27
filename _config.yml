@@ -111,18 +111,18 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-#      - layout: top-right
-#        title: 우아한테크코스
-#        sub_title: this is sub_title
-#        caption: 2019.05.07 ~ 2019.12.27
-#        link: https://github.com/Conatuseus/woowacourse-history
-#        quote: >
-#          자바 웹 백엔드 교육(자바지기 박재성님)
-#        description: | # this will include new lines to allow paragraphs
-#          * OOP, TDD, 클린코드를 기반한 JAVA 프로그래밍
-#          * Spring Boot, JPA를 활용한 웹 백엔드 구현
-#          * 페어 프로그래밍, 프로젝트를 통한 협업 경험
-#          * 현업에 필요한 말하기, 글쓰기 능력 향상을 위한 테코톡/글쓰기 미션
+      - layout: top-right
+        title: 우아한테크코스
+        sub_title: this is sub_title
+        caption: 2019.05.07 ~ 2019.12.27
+        link: https://github.com/Conatuseus/woowacourse-history
+        quote: >
+          자바 웹 백엔드 교육(자바지기 박재성님)
+        description: | # this will include new lines to allow paragraphs
+          * OOP, TDD, 클린코드를 기반한 JAVA 프로그래밍
+          * Spring Boot, JPA를 활용한 웹 백엔드 구현
+          * 페어 프로그래밍, 프로젝트를 통한 협업 경험
+          * 현업에 필요한 말하기, 글쓰기 능력 향상을 위한 테코톡/글쓰기 미션
 #      - layout: top-right
 #        title: Chungnam National University
 #        caption: 2011.03 - 2019.8
