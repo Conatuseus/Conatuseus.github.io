@@ -91,15 +91,15 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-      - layout: right
-          title: 카카오
-          sub_title: Kotlin & Spring 백엔드 개발 인턴
-          caption: 2020.07 - 2020.08
-          link: https://www.kakaocorp.com
-          quote: >
-            Short description of the company (optional)
-          description: | # this will include new lines to allow paragraphs
-            Description of role
+#      - layout: right
+#          title: 카카오
+#          sub_title: Kotlin & Spring 백엔드 개발 인턴
+#          caption: 2020.07 - 2020.08
+#          link: https://www.kakaocorp.com
+#          quote: >
+#            Short description of the company (optional)
+#          description: | # this will include new lines to allow paragraphs
+#            Description of role
   - title: Education
     layout: list
     content:
