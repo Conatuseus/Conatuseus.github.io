@@ -114,7 +114,7 @@ content:
       - layout: top-right
         title: 우아한테크코스
         caption: 2019.05.07 ~ 2019.12.27
-        link: https://github.com/Conatuseus/woowacourse-history
+#        link: https://github.com/Conatuseus/woowacourse-history
         quote: >
           자바 웹 백엔드 교육(자바지기 박재성님)
         description: | # this will include new lines to allow paragraphs
@@ -123,16 +123,16 @@ content:
           * 페어 프로그래밍, 프로젝트를 통한 협업 경험
           * 현업에 필요한 말하기, 글쓰기 능력 향상을 위한 테코톡/글쓰기 미션
 
-      - layout: top-right
-        title: Chungnam National University
-        caption: 2011.03 - 2019.8
-        link: http://plus.cnu.ac.kr/html/kr/
-        qualification: Computer Science Engineering
-        quote: >
-          기본적인 컴퓨터 사이언스 지식 습득
-        description: | # this will include new lines to allow paragraphs
-          * 컴퓨터 프로그래밍, 자료구조, 알고리즘
-          * 운영체제, 데이터베이스, 시스템 프로그래밍
+#      - layout: top-right
+#        title: Chungnam National University
+#        caption: 2011.03 - 2019.8
+#        link: http://plus.cnu.ac.kr/html/kr/
+#        qualification: Computer Science Engineering
+#        quote: >
+#          기본적인 컴퓨터 사이언스 지식 습득
+#        description: | # this will include new lines to allow paragraphs
+#          * 컴퓨터 프로그래밍, 자료구조, 알고리즘
+#          * 운영체제, 데이터베이스, 시스템 프로그래밍
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
