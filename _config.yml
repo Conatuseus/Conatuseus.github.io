@@ -82,7 +82,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 카카오
         sub_title: Kotlin & Spring 백엔드 개발자
         caption: 2020.09 - 현재
@@ -103,7 +103,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
@@ -111,10 +111,10 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: top-right
+      - layout: left
         title: 우아한테크코스
         sub_title: this is sub_title
-        caption: 2019.05.07 ~ 2019.12.27
+        caption: 2019.05.07 - 2019.12.27
         link: https://github.com/Conatuseus/woowacourse-history
         quote: >
           자바 웹 백엔드 교육(자바지기 박재성님)
