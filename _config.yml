@@ -52,13 +52,22 @@ github_username:  Conatuseus
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/conas.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  - 안녕하세요. 2년차 백엔드 개발자 사명기입니다. 😁
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  - 카카오에서 사내 외부 서비스를 위한 서버를 개발했으며, 현재는 계약 시스템을 개발하고 있습니다.
+
+  - 개발 이슈에 관해 토론할 때 즐거움을 느끼고, 해결 후 과정을 공유하는 것을 좋아합니다.
+
+  - 읽기 좋은 코드를 위해 항상 노력합니다.
+
+
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Experience
