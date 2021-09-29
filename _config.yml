@@ -79,18 +79,21 @@ content:
         caption: 2020.09 - 현재
         link: https://www.kakaocorp.com
         quote: >
-          Short description of the company (optional)
+          회원수 2500만의 인증서 서비스
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - 인증서 서비스를 위한 계약 시스템 개발
+          - 사내 타 서비스에서 사용할 API 서버 개발
+          - 성능 테스트를 진행하고, 500TPS -> 20K TPS로 성능 개선 작업
+
       - layout: left
         title: 카카오
         sub_title: 2020 Summer Tech 인턴
         caption: 2020.07 - 2020.08
         link: https://www.kakaocorp.com
-        quote: >
-          Short description of the company (optional)
+#        quote: >
+#          카카오 인증서를 통해 카카오에서 보증하는 신분증명 발급 시스템 개발
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - 카카오 인증서를 통해 카카오에서 보증하는 신분증명 발급 시스템 개발
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
